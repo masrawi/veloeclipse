@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
+   <description name="Veloeclipse" url="https://raw.github.com/masrawi/veloeclipse/master">
+      Veloeclipse
+   </description>
    <feature url="features/com.googlecode.veloeclipse.ui_3.0.2.jar" id="com.googlecode.veloeclipse.ui" version="3.0.2">
       <category name="Web_Editor"/>
    </feature>
