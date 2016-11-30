@@ -14,3 +14,5 @@ enter image description here
 
 Start Eclipse and verify that your plugin works.
 Remove -clean option from Target field.
+
+Credit to Nenad Bulatovic on Stack Overflow for the install instructions.
